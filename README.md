@@ -1,4 +1,4 @@
-# Vaishnavi's Portfolio
+# My Responsive Portfolio
 This is a personal portfolio website showcasing my skills, projects, certifications, and experience. It was built using HTML, CSS, and JavaScript. The website features a clean and modern design, with sections such as Home, About, Services, Experience, and Contact, to give visitors a comprehensive overview of my professional background.
 
 ## Demo
