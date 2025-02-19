@@ -7,7 +7,7 @@ Visit the live demo (You can replace this with a link to the live site if availa
 ## Features
 - Responsive Design: The portfolio is fully responsive, adapting to all screen sizes from mobile to desktop.
 - Interactive UI: A smooth user experience with animated effects and a floating profile image.
-- Project Showcase: A section dedicated to showcasing projects with descriptions and GitHub links.
+- Project Showcase: A section dedicated to showcasing projects with descriptions and GitHub links. 
 - Certifications: Displays various certifications, including Google Cloud Generative-AI and Cybersecurity certifications.
 - Social Media Links: Easy access to my LinkedIn, GitHub, and HackerRank profiles.
 - Contact Form: A functional contact section that redirects users to send an email via Gmail.
