@@ -24,7 +24,7 @@ Visit the live demo (You can replace this with a link to the live site if availa
 To run this project locally, you need to have a browser that supports HTML, CSS, and JavaScript. No additional setup or dependencies are required.
 
 ### Installation
-Clone the repository:
+## Clone the repository:
 
 bash
 Copy
@@ -32,10 +32,10 @@ git clone https://github.com/vaishnavipabbineedi/portfolio.git
 Open the index.html file in your preferred browser to view the portfolio.
 
 ### Customization
-Profile Image: Replace the 1735109700448.jpg image with your own profile image (located in the images folder).
-Projects Section: Add or update your project details by modifying the content inside the <section id="services"> element.
-Social Media Links: Update the social media URLs in the <div class="social-media"> and footer section to point to your own profiles.
-Resume: Change the href attribute in the download CV button to point to your resume PDF file.
+- Profile Image: Replace the 1735109700448.jpg image with your own profile image (located in the images folder).
+- Projects Section: Add or update your project details by modifying the content inside the <section id="services"> element.
+- Social Media Links: Update the social media URLs in the <div class="social-media"> and footer section to point to your own profiles.
+- Resume: Change the href attribute in the download CV button to point to your resume PDF file.
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
