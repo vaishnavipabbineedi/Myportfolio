@@ -27,7 +27,7 @@ To run this project locally, you need to have a browser that supports HTML, CSS,
 
 bash
 Copy
-git clone https://github.com/vaishnavipabbineedi/Myportfolio.git
+git clone https://github.com/your-username/Myportfolio.git
 Open the index.html file in your preferred browser to view the portfolio.
 
 ### Customization
